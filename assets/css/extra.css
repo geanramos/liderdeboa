@@ -1,0 +1,24 @@
+/*
+  Esta regra seleciona qualquer iframe que esteja dentro de um elemento
+  com a classe "entry", que é a área de conteúdo dos nossos posts.
+*/
+iframe {
+  width: 100%;             /* Ocupa toda a largura da coluna */
+  height: auto;              /* A altura se ajusta automaticamente */
+  aspect-ratio: 16 / 9;      /* Força a proporção 16:9 */
+  border: 0;                 /* Remove a borda padrão */
+  margin-bottom: 20px;       /* Espaçamento opcional abaixo do vídeo */
+  border-radius: 4px;
+}
+.text-logo {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800; /* ExtraBold */
+  color: white; /* Cor branca */
+  text-align: center; /* Centralizado */
+  font-size: clamp(2.3rem, 8vw, 4rem); /* Tamanho grande e responsivo */
+  line-height: 1.1;
+  text-decoration: none;
+  display: block;
+  margin: 0;
+  padding: 0;
+}

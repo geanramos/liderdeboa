@@ -1,0 +1,72 @@
+# -----------------------------------------------------------------------------
+# Informações do Site e Autor
+# -----------------------------------------------------------------------------
+title: Lider de Boa
+tagline: Liderança de verdade, sem complicação.
+description: "Liderança de verdade, sem complicação. Dicas práticas e conversas sinceras para quem lidera ou quer liderar. Aprenda a gerir pessoas, construir uma cultura positiva e aumentar a produtividade com empatia e inteligência. Menos chefe, mais líder. Bora liderar de boa?"
+url: "https://liderdeboa.u1m.com.br"
+baseurl: "/"
+language: "pt-BR"
+social_image: "/img/capa.jpg" # Imagem padrão para redes sociais
+
+author:
+  name: Gean Ramos
+  url: https://gean.me
+  email: contato@gean.me
+
+# -----------------------------------------------------------------------------
+# Links Externos e Redes Sociais
+# -----------------------------------------------------------------------------
+social:
+  twitter:
+    username: GeanRamos
+    url: https://twitter.com/geanramos
+  github:
+    username: geanramos
+    url: https://github.com/geanramos/
+  bluesky:
+    username: Gean Ramos
+    url: https://bsky.app/profile/did:plc:k3g67rs7si5va35yyhp7utk2
+  podcast:
+    title: Gean Ramos
+    url: https://soundcloud.com/geanramos
+
+# -----------------------------------------------------------------------------
+# Configuração de Build do Jekyll
+# -----------------------------------------------------------------------------
+permalink: /:title.html
+
+# Paginação (Configuração para a v1 do jekyll-paginate, que é compatível)
+paginate: 10
+paginate_path: "/page/:num/"
+
+# Configuração Padrão
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Configuração do Markdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# -----------------------------------------------------------------------------
+# Plugins
+# -----------------------------------------------------------------------------
+# Apenas os plugins compatíveis com o GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+# -----------------------------------------------------------------------------
+# Variáveis Personalizadas do Tema
+# -----------------------------------------------------------------------------
+google_fonts: "https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&family=Roboto&display=swap"

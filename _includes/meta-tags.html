@@ -1,0 +1,110 @@
+<title>{{ page.title }}</title>
+<!-- Meta Tags para SEO no Google -->
+  <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="{{ page.title }}">{% if page.tags %}
+  <meta name="keywords" content="{% for tag in page.tags %}{{ tag }}{% if forloop.last == false %}, {% endif %}{% endfor %}">{% else %}
+  <meta name="keywords" content="{{ page.title }}, esporte, jornais, revistas, biblioteca,compras, computador, corpo, saúde, moda, cinema, crianças, diversão, arte, economia, educação, internet, rádio, tv, tempo, últimas notícias, viagem, jornalismo, informação, notícia, cultura, entretenimento, lazer, opinião, análise, internet, televisão, fotografia, imagem, som, áudio, vídeo, fotos, tecnologia, empregos, humor, música">{% endif %}
+  <meta name="robots" content="index, follow">
+  <meta name="googlebot" content="index, follow">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+<!-- Configurações Gerais -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="{{ site.author.name }}">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#4a21cc">
+    <meta name="apple-mobile-web-app-title" content="{{ site.author.name }}">
+    <meta name="theme-color" content="#4a21cc">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#4a21cc">
+    <meta name="msapplication-navbutton-color" content="#4a21cc">
+    <meta name="msapplication-TileColor" content="#4a21cc">
+    <meta name="navbutton-color" content="#4a21cc">
+    
+    <!-- Meta Tags para Google -->
+    <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - {{ site.title }}">
+    <meta itemprop="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta itemprop="image" content="{% if page.img %}{{ page.img | absolute_url }}{% else %}{{ site.image | absolute_url }}{% endif %}">
+    
+    <!-- Meta Tags para Facebook (Open Graph), LinkedIn, WhatsApp -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{{ site.title }} - {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    {% if page.img %} <meta property="og:image" content="{{ page.img | absolute_url }}"> {% else %} <meta property="og:image" content="{{ site.image | absolute_url }}"> {% endif %}
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:locale" content="pt_BR">
+    
+    <!-- Meta Tags para Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@geanramos">
+    <meta name="twitter:creator" content="@geanramos">
+    <meta name="twitter:title" content="{{ site.title }} - {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    {% if page.img %} <meta name="twitter:image" content="{{ page.img | absolute_url }}"> {% else %} <meta name="twitter:image" content="{{ site.image | absolute_url }}"> {% endif %}
+    <meta name="twitter:image:alt" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+    
+    <!-- Favicon e RSS -->
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.url }}{{ site.baseurl }}/atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="https://feeds.feedburner.com/geanramos">
+  <link rel="icon" sizes="16x16" href="{{ site.url }}{{ site.baseurl }}/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico">
+  <link href="{{ site.url }}{{ site.baseurl }}/favicon.ico" rel="icon" type="image/x-icon">
+  <link rel="icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico">
+
+  <link rel="apple-touch-icon-precomposed" sizes="512x512" href="{{ site.url }}{{ site.baseurl }}/favicon.png?v=02">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.url }}{{ site.baseurl }}/favicon.png?v=02">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ site.url }}{{ site.baseurl }}/favicon.png?v=02">
+  <link rel="apple-touch-icon-precomposed" href="{{ site.url }}{{ site.baseurl }}/favicon.png?v=02">
+  
+
+<script type="application/ld+json">
+{%- assign author_data = site.data.authors[page.author] | default: site.author -%}
+{
+  "@context": "https://schema.org",
+  {%- if page.layout == 'post' -%}
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "image": "{{ page.img }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ author_data.name | default: site.author.name }}",
+    "url": "{{ author_data.url | default: site.author.url }}"
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  {%- if page.last_modified_at -%}
+  "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+  {%- else -%}
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  {%- endif -%}
+  "description": {{ page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines | jsonify }},
+  "mainEntityOfPage": {
+     "@type": "WebPage",
+     "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.author.name }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ '/favicon.ico' | absolute_url }}"
+    }
+  }
+  {%- else -%}
+  "@type": "WebSite",
+  "name": "{{ site.author.name }}",
+  "description": {{ site.description | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author.name }}",
+    "url": "{{ site.author.url }}"
+  },
+  "url": "{{ '/' | absolute_url }}"
+  {%- endif %}
+}
+</script>

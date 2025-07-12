@@ -1,0 +1,54 @@
+---
+layout: default
+body_class: "page-post"
+---
+<article id="content" itemscope itemtype="https://schema.org/BlogPosting">
+
+  {%- comment -%}
+    Carrega os dados do autor a partir de `_data/authors.yml`
+  {%- endcomment -%}
+  {%- assign author_data = site.data.authors[page.author] -%}
+  
+  {% include post-header.html p=page author_data=author_data in_list=false %}
+
+  <main class="mx-auto markdown lg:markdown-xl dark:markdown-dark" itemprop="articleBody">
+    {{ content }}
+  </main>
+
+  <footer class="mx-auto markdown sm:markdown-lg lg:markdown-xl dark:markdown-dark mt-10">
+    {%- comment -%}
+  Seção de Tags com o novo estilo "ícone + texto + links".
+{%- endcomment -%}
+{%- if page.tags and page.tags.size > 0 -%}
+<div class="flex items-center space-x-1 mt-6 pt-6 border-t dark:border-gray-800">
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 inline w-6" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path d="M9.568 3H5.25A2.25 2.25 0 003 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 005.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 009.568 3z" stroke-linecap="round" stroke-linejoin="round"></path><path d="M6 6h.008v.008H6V6z" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+
+  <span class="font-semibold">Tags:</span>
+
+  <span>
+    {%- for tag in page.tags -%}
+      <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}" class="no-underline hover:underline">{{ tag }}</a>{%- unless forloop.last -%},&nbsp;{% endunless -%}
+    {%- endfor -%}
+  </span>
+</div>
+{%- endif -%}
+    
+    {%- if page.categories.size > 0 -%}
+    <aside>
+      <hr class="my-2 dark:border-gray-800">
+      <div class="text-2xl font-display font-extrabold text-violet-dark dark:text-blue-500">Na mesma categoria</div>
+      <ul>
+        {%- assign first_category = page.categories.first -%}
+        {%- assign related_posts = site.categories[first_category] | where_exp: "item", "item.id != page.id" -%}
+        {%- for related in related_posts limit:5 -%}
+        <li>
+          <a class="md:text-lg font-bold no-underline text-violet hover:text-violet-light dark:text-blue-500 dark:hover:text-blue-300" href="{{ related.url | relative_url }}">{{ related.title }}</a>
+        </li>
+        {%- else -%}
+        <li>Nenhum outro artigo...</li>
+        {%- endfor -%}
+      </ul>
+    </aside>
+    {%- endif -%}
+  </footer>
+</article>
