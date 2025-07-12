@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Laranja Podre que Bate Meta: demitir ou tolerar? 🍊"
-description: "Aquele funcionário que entrega resultados, mas contamina a equipe, é seu maior desafio? Saiba como lidar com a "laranja podre que bate meta" de forma estratégica e sem colocar a empresa em risco."
+title: "A Laranja Podre que Bate Meta, demitir ou tolerar? 🍊"
+description: "Aquele funcionário que entrega resultados, mas contamina a equipe, é seu maior desafio? Saiba como lidar com a laranja podre que bate meta de forma estratégica e sem colocar a empresa em risco."
 date: 2025-07-12 18:26:13 -0300
 categories: jekyll update
 tags: [Liderança,GestãoDePessoas,CulturaOrganizacional,FuncionárioTóxico,Feedback]
