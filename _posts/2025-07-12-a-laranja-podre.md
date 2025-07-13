@@ -4,7 +4,7 @@ description: "Aquele funcionário que entrega resultados, mas contamina a equipe
 date: 2025-07-12 18:26:13 -0300
 img: "./img/a-laranja-podre.jpg"
 author: geanramos
-tags: [CulturaOrganizacional, FuncionárioTóxico, Feedback]
+tags: [Cultura Organizacional, Funcionário Tóxico]
 categories:
  - Gestão
  - Liderança
