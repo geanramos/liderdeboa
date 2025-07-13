@@ -1,0 +1,3 @@
+<audio id="player-audio" controls="">
+<source src="./audio/teste.mp3" type="audio/mpeg" />
+</audio>
