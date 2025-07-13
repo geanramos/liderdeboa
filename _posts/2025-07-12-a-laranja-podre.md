@@ -63,7 +63,13 @@ E aí, sua liderança tem sido um exemplo ou um alerta para o time?
 **📲 Quer receber mais dicas práticas de liderança no dia a dia? Entra no [canal do WhatsApp](?zap#canal) e bora liderar de boa!**
 
 ---
+<div class="player">
+<div class="plyr__video-embed" id="player-youtube">
+<iframe src="https://www.youtube.com/embed/yVeXSswNN_A" allowfullscreen="" allow="autoplay"></iframe>
+</div>
+</div>
 
+---
 **Categorias**
 
 * #Liderança
