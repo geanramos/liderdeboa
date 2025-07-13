@@ -64,8 +64,8 @@
 
     {%- if p.source and p.source.url -%}
         <p class="mt-2 text-base text-black-grape-400 dark:text-black-grape-200">
-            Source : <a class="no-underline font-display font-extrabold text-rose hover:underline" href="{{ p.source.url }}"><em>{{ p.source.title | default: p.source.url }}</em></a>
-            {%- if p.source.author %} par {{ p.source.author }}{% endif -%}.
+            Fonte : <a class="no-underline font-display font-extrabold text-rose hover:underline" href="{{ p.source.url }}"><em>{{ p.source.title | default: p.source.url }}</em></a>
+            {%- if p.source.author %} por {{ p.source.author }}{% endif -%}.
         </p>
     {%- endif -%}
 
