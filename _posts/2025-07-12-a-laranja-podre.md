@@ -5,7 +5,7 @@ description: "Aquele funcionário que entrega resultados, mas contamina a equipe
 date: 2025-07-12 18:26:13 -0300
 categories: jekyll update
 tags: [Liderança,GestãoDePessoas,CulturaOrganizacional,FuncionárioTóxico,Feedback]
-img: "https://geanramos.u1m.com.br/img/apaixonar-se.jpg"
+img: "./img/a-laranja-podre.jpg"
 ---
 
 Sabe aquele funcionário que é um trator para entregar resultados, mas deixa um rastro de contaminação por onde passa? Aquele vendedor que atinge 10% do faturamento, mas que ninguém suporta na equipe? Se você já se viu nesse dilema, com a calculadora em uma mão e a dor de cabeça na outra, este papo é para você.
