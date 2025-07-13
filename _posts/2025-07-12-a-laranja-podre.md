@@ -22,6 +22,10 @@ Liderar, muitas vezes, é tomar decisões que não são nada óbvias. Manter a "
 
 > Vamos desembolar essa história e entender como agir com inteligência, sem ficar refém de ninguém.
 
+<audio id="player-audio" controls="">
+<source src="./audio/a-laranja-podre.mp3" type="audio/mpeg" />
+</audio>
+
 ### 🛑 **O que está acontecendo? (O Diagnóstico do Problema Real)**
 
 O primeiro passo é entender a gravidade da situação. Não estamos falando daquele colega que teve um dia ruim ou fez uma fofoca isolada. Estamos falando de um padrão de comportamento. O problema é o funcionário que, de forma consistente, é o "reclamão", o "mentiroso", o "vitimista" ou, pior, aquele que "veste a camisa e joga contra".
