@@ -1,11 +1,18 @@
 ---
-layout: post
 title: "A Laranja Podre que Bate Meta, demitir ou tolerar? 🍊"
 description: "Aquele funcionário que entrega resultados, mas contamina a equipe, é seu maior desafio? Saiba como lidar com a laranja podre que bate meta de forma estratégica e sem colocar a empresa em risco."
 date: 2025-07-12 18:26:13 -0300
-categories: jekyll update
-tags: [Liderança,GestãoDePessoas,CulturaOrganizacional,FuncionárioTóxico,Feedback]
-img: "./img/a-laranja-podre.jpg"
+images: "./img/a-laranja-podre.jpg"
+author: geanramos
+categories:
+ - gestao
+ - lideranca
+source:
+  author: Nicolas Hoizey
+  title: JAMstack is fast only if you make it so
+  url: https://nicolas-hoizey.com/articles/2020/05/05/jamstack-is-fast-only-if-you-make-it-so/
+canonical_url: https://nicolas-hoizey.com/articles/2020/05/05/jamstack-is-fast-only-if-you-make-it-so/
+twitter_widgets: true
 ---
 
 Sabe aquele funcionário que é um trator para entregar resultados, mas deixa um rastro de contaminação por onde passa? Aquele vendedor que atinge 10% do faturamento, mas que ninguém suporta na equipe? Se você já se viu nesse dilema, com a calculadora em uma mão e a dor de cabeça na outra, este papo é para você.
