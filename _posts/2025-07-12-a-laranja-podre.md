@@ -2,8 +2,9 @@
 title: "A Laranja Podre que Bate Meta, demitir ou tolerar? 🍊"
 description: "Aquele funcionário que entrega resultados, mas contamina a equipe, é seu maior desafio? Saiba como lidar com a laranja podre que bate meta de forma estratégica e sem colocar a empresa em risco."
 date: 2025-07-12 18:26:13 -0300
-images: "./img/a-laranja-podre.jpg"
+img: "./img/a-laranja-podre.jpg"
 author: geanramos
+tags: [Liderança, GestãoDePessoas, CulturaOrganizacional, FuncionárioTóxico, Feedback]
 categories:
  - gestao
  - lideranca
@@ -14,16 +15,16 @@ source:
 canonical_url: https://nicolas-hoizey.com/articles/2020/05/05/jamstack-is-fast-only-if-you-make-it-so/
 twitter_widgets: true
 ---
-
+:::intro
 Sabe aquele funcionário que é um trator para entregar resultados, mas deixa um rastro de contaminação por onde passa? Aquele vendedor que atinge 10% do faturamento, mas que ninguém suporta na equipe? Se você já se viu nesse dilema, com a calculadora em uma mão e a dor de cabeça na outra, este papo é para você.
+:::
 
 Liderar, muitas vezes, é tomar decisões que não são nada óbvias. Manter a "laranja podre" que performa bem parece, em um primeiro momento, uma escolha puramente racional. Afinal, o resultado dele é objetivo, está ali na planilha. Mas o dano que ele causa é subjetivo... até o dia em que se torna um problema gigante e bem objetivo, que pode custar caro para a empresa.
 
+:::info
 Vamos desembolar essa história e entender como agir com inteligência, sem ficar refém de ninguém.
+:::
 
----
-
-📚 **Desenvolvimento com Contexto + Dica Prática**
 
 ### 🛑 **O que está acontecendo? (O Diagnóstico do Problema Real)**
 
@@ -55,13 +56,11 @@ Ao tomar essas atitudes, você não está apenas removendo um problema. Você es
 
 ---
 
-🧭 **Fechamento Reflexivo + Chamada para Ação**
-
 No fim das contas, a liderança se resume às decisões difíceis que tomamos e, principalmente, aos comportamentos que escolhemos tolerar. Ser um "Líder de Boa" não é ser bonzinho, mas sim ser justo, corajoso e estratégico para proteger o bem mais valioso da sua empresa: as pessoas.
 
 E aí, sua liderança tem sido um exemplo ou um alerta para o time?
 
-**📲 Quer receber mais dicas práticas de liderança no dia a dia? Entra no canal do WhatsApp e bora liderar de boa!**
+**📲 Quer receber mais dicas práticas de liderança no dia a dia? Entra no [canal do WhatsApp](?zap#canal) e bora liderar de boa!**
 
 ---
 
