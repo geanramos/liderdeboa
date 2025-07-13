@@ -9,7 +9,7 @@ categories:
  - Gestão
  - Liderança
 source:
-  author: Nicolas Hoizey
+  author: Gean Ramos
   title: histórias ganham vida
   url: https://geanramos.u1m.com.br/?utm_source=liderdeboa.u1m.com.br&utm_medium=referral&utm_campaign=redirect
 canonical_url: https://geanramos.u1m.com.br/?utm_source=liderdeboa.u1m.com.br&utm_medium=referral&utm_campaign=redirect
