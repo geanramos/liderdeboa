@@ -15,16 +15,12 @@ source:
 canonical_url: https://geanramos.u1m.com.br/?utm_source=liderdeboa.u1m.com.br&utm_medium=referral&utm_campaign=redirect
 twitter_widgets: true
 ---
-:::intro
+
 Sabe aquele funcionário que é um trator para entregar resultados, mas deixa um rastro de contaminação por onde passa? Aquele vendedor que atinge 10% do faturamento, mas que ninguém suporta na equipe? Se você já se viu nesse dilema, com a calculadora em uma mão e a dor de cabeça na outra, este papo é para você.
-:::
 
 Liderar, muitas vezes, é tomar decisões que não são nada óbvias. Manter a "laranja podre" que performa bem parece, em um primeiro momento, uma escolha puramente racional. Afinal, o resultado dele é objetivo, está ali na planilha. Mas o dano que ele causa é subjetivo... até o dia em que se torna um problema gigante e bem objetivo, que pode custar caro para a empresa.
 
-:::info
-Vamos desembolar essa história e entender como agir com inteligência, sem ficar refém de ninguém.
-:::
-
+> Vamos desembolar essa história e entender como agir com inteligência, sem ficar refém de ninguém.
 
 ### 🛑 **O que está acontecendo? (O Diagnóstico do Problema Real)**
 
