@@ -10,9 +10,9 @@ categories:
  - lideranca
 source:
   author: Nicolas Hoizey
-  title: JAMstack is fast only if you make it so
-  url: https://nicolas-hoizey.com/articles/2020/05/05/jamstack-is-fast-only-if-you-make-it-so/
-canonical_url: https://nicolas-hoizey.com/articles/2020/05/05/jamstack-is-fast-only-if-you-make-it-so/
+  title: histórias ganham vida
+  url: https://geanramos.u1m.com.br/?utm_source=liderdeboa.u1m.com.br&utm_medium=referral&utm_campaign=redirect
+canonical_url: https://geanramos.u1m.com.br/?utm_source=liderdeboa.u1m.com.br&utm_medium=referral&utm_campaign=redirect
 twitter_widgets: true
 ---
 :::intro
