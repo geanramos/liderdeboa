@@ -62,7 +62,7 @@ E aí, sua liderança tem sido um exemplo ou um alerta para o time?
 
 **📲 Quer receber mais dicas práticas de liderança no dia a dia? Entra no [canal do WhatsApp](?zap#canal) e bora liderar de boa!**
 
-### Recomendo - Anime Aggretsuko
+### Recomendo - [Anime Aggretsuko](https://www.google.com/search?q=assistir%20aggretsuko%20dublado%20e%20online)
 <div class="player">
 <div class="plyr__video-embed" id="player-youtube">
 <iframe src="https://www.youtube.com/embed/6Tq8vxvSxJE" allowfullscreen="" allow="autoplay"></iframe>
