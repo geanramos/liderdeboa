@@ -144,9 +144,19 @@ A pergunta que fica, e que eu deixo para sua reflexão é: **Você vai continuar
 
 A escolha, como sempre, é sua. O jogo está na mesa.
 
-### Recomendo - [Anime Aggretsuko](https://www.google.com/search?q=assistir%20aggretsuko%20dublado%20e%20online)
+### Recomendo - [Um Senhor Estagiário (Filme)](https://www.google.com/search?q=assistir+Um+Senhor+Estagi%C3%A1rio+(Filme)+online)
 <div class="player">
 <div class="plyr__video-embed" id="player-youtube">
-<iframe src="https://www.youtube.com/embed/6Tq8vxvSxJE" allowfullscreen="" allow="autoplay"></iframe>
+<iframe src="https://www.tokyvideo.com/embed/391589" allowfullscreen="" allow="autoplay"></iframe>
 </div>
 </div>
+**Por que assistir?** Ben (Robert De Niro), um viúvo de 70 anos, se torna estagiário em uma startup de moda liderada pela sobrecarregada Jules (Anne Hathaway). Ele não chega para competir ou tomar o lugar de ninguém, mas para agregar valor. Ele ouve, observa, organiza, aconselha e, aos poucos, se torna o pilar emocional da empresa e da própria fundadora. É a materialização da ideia de que a experiência, a calma e a vontade de servir são ferramentas de liderança poderosíssimas.
+
+---
+
+### **Categorias:** 
+**Liderança,** 
+**Gestão de Pessoas**
+**Empreendedorismo** 
+**Cultura Organizacional** 
+**Produtividade**
