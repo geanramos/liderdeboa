@@ -4,10 +4,11 @@ description: "Cansado de ser o funcionário mais sobrecarregado da sua própria 
 date: 2025-07-17 20:26:03 -0300
 img: "./img/a-laranja-podre.jpg"
 author: geanramos
-tags: [Cultura Organizacional, Funcionário Tóxico]
+tags: [Cultura Organizacional, Gestão de Pessoas]
 categories:
  - Gestão
  - Liderança
+ - Produtividade
 source:
   author: Gean Ramos
   title: histórias ganham vida
