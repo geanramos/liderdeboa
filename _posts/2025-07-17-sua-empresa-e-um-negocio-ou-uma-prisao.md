@@ -2,7 +2,7 @@
 title: "Sua Empresa é um Negócio ou uma Prisão? A Resposta Está Aqui."
 description: "Cansado de ser o funcionário mais sobrecarregado da sua própria empresa? Descubra o (código esquecido) que liberta donos de negócio, baseado em princípios de 2.000 anos, e construir um time que joga junto."
 date: 2025-07-17 20:26:03 -0300
-img: "./img/a-laranja-podre.jpg"
+img: "./img/sua-empresa-e-um-negocio-ou-uma-prisao.jpg"
 author: geanramos
 tags: [Cultura Organizacional, Gestão de Pessoas]
 categories:
@@ -26,6 +26,10 @@ Muitos de nós, donos de negócio e líderes, caímos na armadilha de criar uma 
 Mas e se existisse um "código esquecido"? Um conjunto de princípios que, embora simples, tem o poder de virar esse jogo. E não, não é uma fórmula mágica, mas sim um resgate de verdades fundamentais sobre pessoas, propósito e processos.
 
 Vamos mergulhar fundo nesses conceitos e traduzir tudo para você. Sem jargões corporativos, sem enrolação. Apenas a essência do que funciona, como se estivéssemos tomando aquele café e trocando uma ideia sincera. Preparado para reprogramar a mente?
+
+<audio id="player-audio" controls="">
+<source src="./audio/sua-empresa-e-um-negocio-ou-uma-prisao.mp3" type="audio/mpeg" />
+</audio>
 
 ### **🛑 O Problema Central: A Obsessão que Te Prende**
 
@@ -140,3 +144,9 @@ A pergunta que fica, e que eu deixo para sua reflexão é: **Você vai continuar
 
 A escolha, como sempre, é sua. O jogo está na mesa.
 
+### Recomendo - [Anime Aggretsuko](https://www.google.com/search?q=assistir%20aggretsuko%20dublado%20e%20online)
+<div class="player">
+<div class="plyr__video-embed" id="player-youtube">
+<iframe src="https://www.youtube.com/embed/6Tq8vxvSxJE" allowfullscreen="" allow="autoplay"></iframe>
+</div>
+</div>
