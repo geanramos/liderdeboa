@@ -1,6 +1,6 @@
 ---
 title: "Sua Empresa é um Negócio ou uma Prisão? A Resposta Está Aqui."
-description: "Cansado de ser o funcionário mais sobrecarregado da sua própria empresa? Descubra o "código esquecido" que liberta donos de negócio, baseado em princípios de 2.000 anos, e construir um time que joga junto."
+description: "Cansado de ser o funcionário mais sobrecarregado da sua própria empresa? Descubra o (código esquecido) que liberta donos de negócio, baseado em princípios de 2.000 anos, e construir um time que joga junto."
 date: 2025-07-17 20:26:03 -0300
 img: "./img/a-laranja-podre.jpg"
 author: geanramos
@@ -12,9 +12,8 @@ source:
   author: Gean Ramos
   title: histórias ganham vida
   url: https://geanramos.u1m.com.br/?utm_source=liderdeboa.u1m.com.br&utm_medium=referral&utm_campaign=redirect
-canonical_url: https://geanramos.u1m.com.br/?utm_source=liderdeboa.u1m.com.br&utm_medium=referral&utm_campaign=redirect
-twitter_widgets: true
 ---
+
 ## **🚨 O Código Esquecido: Como Sair da Prisão do Próprio Negócio e Finalmente Ter Liberdade**
 
 E aí, tudo na paz?
