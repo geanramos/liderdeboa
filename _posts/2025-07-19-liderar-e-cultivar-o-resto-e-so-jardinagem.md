@@ -42,7 +42,7 @@ Porque as pessoas sentem a incoerência. De que adianta um discurso de "somos um
 🧠 **O que você pode fazer?**
 Entender o conceito real de cultura. cultura é, na verdade, o **"sistema operacional"** da sua empresa. É o conjunto de comportamentos que são **aceitos, repetidos e, principalmente, tolerados** todos os dias.
 
-> Em outras palavras, **cultura é o comportamento real da sua equipe quando você, o líder, não está na sala.**
+> Em outras palavras, **cultura é o comportamento real da sua equipe quando você, o líder, não está por perto.**
 
 É a forma como o erro é tratado. É a rapidez com que uma fofoca se espalha. É o nível de zelo que as pessoas têm com os recursos da empresa. Toda empresa tem uma cultura, quer você a construa de propósito ou não. Se você não for intencional, o caos cria uma por você — e geralmente não é uma cultura bonita.
 
