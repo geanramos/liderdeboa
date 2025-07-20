@@ -42,7 +42,7 @@
 <script>  const players = Plyr.setup('.plyr__video-embed,.video-wrapper div, #local-video, #player, audio'); </script>
 {%- comment -%}
 {%- endcomment -%}
-{% capture whatsapp_text %}Confira este post: {{ page.title }} - {{ page.url | absolute_url }}{% endcapture %}
+{% capture whatsapp_text %}Confira este post: {{ page.description }} - {{ page.url | absolute_url }}{% endcapture %}
 
 <div class="whatsapp-float">
     {%- comment -%}
