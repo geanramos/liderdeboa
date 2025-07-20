@@ -15,7 +15,7 @@ source:
   url: https://geanramos.u1m.com.br/?utm_source=liderdeboa.u1m.com.br&utm_medium=referral&utm_campaign=redirect
 ---
    
-🎯 **Sua equipe não engaja? A culpa pode ser da cultura (e não, não é falta de happy hour) 🍻**
+### 🎯 Sua equipe não engaja? A culpa pode ser da cultura (e não, não é falta de happy hour) 🍻
 
 Senta aqui, pega um café. A gente precisa ter um papo reto. Você já se sentiu remando sozinho? Olhou para o time e pensou: "Eu me mato por essa empresa, mas parece que ninguém mais se importa"? Você organiza eventos, paga bônus, tenta de tudo, mas a energia continua baixa, a galera parece desinteressada e a produtividade não decola.
 
