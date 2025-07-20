@@ -62,7 +62,7 @@ O estrago é silencioso e devastador. Enquanto você celebra os números que ess
 A resposta é categórica: **nenhuma performance justifica uma postura tóxica.** Mas calma, não precisa demitir no susto e criar um rombo na operação. A solução é o que ele chama de **"planejamento de demissão"**.
 
 1.  **Contrate um "par":** Traga outra pessoa para a mesma função, com a desculpa de que a posição é crítica e precisa de backup para férias ou imprevistos.
-2.  **Acompanhe o treinamento:** Deixe a "laranja podre" treinar o novato, mas fique de perto para garantir que o conhecimento seja repassado.
+2.  **Acompanhe o treinamento:** Deixe a "laranja podre" treinar o novato, mas fique por perto para garantir que o conhecimento seja repassado.
 3.  **Faça a transição:** Quando o novo colaborador estiver minimamente pronto, você pode desligar o profissional tóxico com um impacto muito menor na operação.
 
 🚀 **Qual o benefício?**
