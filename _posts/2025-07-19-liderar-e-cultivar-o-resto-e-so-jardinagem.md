@@ -119,8 +119,11 @@ Liderar não é fácil, mas começa com a coragem de olhar para dentro e cultiva
 ---
 
 **Gostou da reflexão?**
+
 💬 **Comenta aqui** qual foi a maior ficha que caiu pra você!
+
 💾 **Salva este post** para ler de novo quando precisar daquele empurrãozinho.
+
 📲 Quer mais papos retos como este? **Entra no canal do WhatsApp** e bora liderar de boa!
 
 
