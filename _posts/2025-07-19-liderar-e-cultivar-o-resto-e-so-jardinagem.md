@@ -40,7 +40,7 @@ Muitos líderes confundem um ambiente "legalzinho" com uma cultura forte. Invest
 Porque as pessoas sentem a incoerência. De que adianta um discurso de "somos uma família" se, na prática, um colega pode sabotar o outro e nada acontece? Isso gera desconfiança, mata o engajamento e cria um ambiente onde ninguém se sente seguro para dar o seu melhor.
 
 🧠 **O que você pode fazer?**
-Entender o conceito real de cultura. Como o Gean disse, cultura é, na verdade, o "sistema operacional" da sua empresa. É o conjunto de comportamentos que são **aceitos, repetidos e, principalmente, tolerados** todos os dias.
+Entender o conceito real de cultura. cultura é, na verdade, o **"sistema operacional"** da sua empresa. É o conjunto de comportamentos que são **aceitos, repetidos e, principalmente, tolerados** todos os dias.
 
 > Em outras palavras, **cultura é o comportamento real da sua equipe quando você, o líder, não está na sala.**
 
@@ -59,7 +59,7 @@ Esse profissional é arrogante, não colabora com a equipe, vive reclamando, sab
 O estrago é silencioso e devastador. Enquanto você celebra os números que essa pessoa gera, ela desmotiva outras dez. A mensagem que você passa para o resto do time é: "Nesta empresa, o que importa é o resultado, não importa como você trata as pessoas". Isso destrói a meritocracia, o respeito e a colaboração. O saldo final é sempre negativo.
 
 🧠 **O que você pode fazer?**
-A resposta do Gean é categórica: **nenhuma performance justifica uma postura tóxica.** Mas calma, não precisa demitir no susto e criar um rombo na operação. A solução é o que ele chama de **"planejamento de demissão"**.
+A resposta é categórica: **nenhuma performance justifica uma postura tóxica.** Mas calma, não precisa demitir no susto e criar um rombo na operação. A solução é o que ele chama de **"planejamento de demissão"**.
 
 1.  **Contrate um "par":** Traga outra pessoa para a mesma função, com a desculpa de que a posição é crítica e precisa de backup para férias ou imprevistos.
 2.  **Acompanhe o treinamento:** Deixe a "laranja podre" treinar o novato, mas fique de perto para garantir que o conhecimento seja repassado.
@@ -81,7 +81,7 @@ Líderes usam o termo sem explicar o que ele significa, e a equipe o interpreta 
 Gera um sentimento de exploração e desconexão. Se o colaborador não entende o "porquê" e, principalmente, o "o que eu ganho com isso", a ideia morre na praia.
 
 🧠 **O que você pode fazer?**
-Reenquadrar o conceito. Ter "postura de dono" não é sobre o lucro, é sobre o zelo e a mentalidade. Gean usa três analogias brilhantes para explicar isso:
+Reenquadrar o conceito. Ter "postura de dono" não é sobre o lucro, é sobre o zelo e a mentalidade. três analogias brilhantes para explicar isso:
 
 1.  **Seu time de futebol:** Você se sente dono do seu time, defende as cores, sofre e comemora, mas não recebe um centavo do salário dos jogadores.
 2.  **Seu país:** Você se sente brasileiro, se importa com o país, mas ele não te paga dividendos.
@@ -96,7 +96,7 @@ Essa é a virada de chave! Explique que as pessoas que desenvolvem essa mentalid
 
 Por fim, o erro mais comum: tratar a cultura como um projeto. Aquele evento de integração incrível, a palestra motivacional... e na segunda-feira, tudo volta a ser como era antes.
 
-Isso gera o que Gean chama de "voo de galinha": a energia sobe e, logo depois, despenca.
+Isso gera o que chamo de **"voo de galinha":** a energia sobe e, logo depois, despenca.
 
 A solução é a consistência. Ele faz uma analogia poderosa: **cultura é como religião, precisa ser cultuada constantemente.** Não adianta ir à missa uma vez por ano e esperar ter fé.
 
