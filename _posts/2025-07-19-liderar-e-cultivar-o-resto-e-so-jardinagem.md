@@ -98,7 +98,7 @@ Por fim, o erro mais comum: tratar a cultura como um projeto. Aquele evento de i
 
 Isso gera o que chamo de **"voo de galinha":** a energia sobe e, logo depois, despenca.
 
-A solução é a consistência. Ele faz uma analogia poderosa: **cultura é como religião, precisa ser cultuada constantemente.** Não adianta ir à missa uma vez por ano e esperar ter fé.
+A solução é a consistência. Minha analogia é: **cultura é como religião, precisa ser cultuada constantemente.** Não adianta ir à missa uma vez por ano e esperar ter fé.
 
 Isso significa ter rituais. Reuniões periódicas (mensais, quinzenais) para falar abertamente sobre os comportamentos esperados, reconhecer quem são os exemplos da cultura e deixar claro quais são as "regras do jogo".
 
