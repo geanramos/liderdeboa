@@ -21,7 +21,7 @@ Senta aqui, pega um café. A gente precisa ter um papo reto. Você já se sentiu
 
 Se você balançou a cabeça concordando, talvez o problema não esteja no que você *faz*, mas sim no que você *tolera* no dia a dia.
 
-Recentemente, ouvi uma aula do Gean Ramos, fundador do Grupo UM, no podcast PodAcelerar, e uma ficha gigante caiu: a gente fala muito de estratégia, metas e processos, mas esquece do que realmente move ou afunda uma empresa: a tal da **cultura organizacional**. E não, não é aquela frase bonita na parede. É algo muito mais profundo e, acredite, muito mais poderoso.
+A gente fala muito de estratégia, metas e processos, mas esquece do que realmente move ou afunda uma empresa: a tal da **cultura organizacional**. E não, não é aquela frase bonita na parede. É algo muito mais profundo e, acredite, muito mais poderoso.
 
 <audio id="player-audio" controls="">
 <source src="./audio/liderar-e-cultivar-o-resto-e-so-jardinagem.mp3" type="audio/mpeg" />
