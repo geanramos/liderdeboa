@@ -40,3 +40,14 @@
 </footer>
 <script src="https://cdn.plyr.io/3.6.12/plyr.polyfilled.js"></script>
 <script>  const players = Plyr.setup('.plyr__video-embed,.video-wrapper div, #local-video, #player, audio'); </script>
+{%- comment -%}
+{%- endcomment -%}
+{% capture whatsapp_text %}Confira este post: {{ page.title }} - {{ page.url | absolute_url }}{% endcapture %}
+
+<div class="whatsapp-float">
+    {%- comment -%}
+    {%- endcomment -%}
+    <a href="https://api.whatsapp.com/send?text={{ whatsapp_text | url_encode }}" target="_blank" title="Compartilhe este post no WhatsApp">
+      <img src="https://i1.wp.com/nevoli.com.br/whatsapp1.png?resize=50,50" alt="Compartilhar no WhatsApp">
+    </a>
+</div>
