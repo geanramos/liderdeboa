@@ -1,3 +1,20 @@
+---
+title: "Liderar é Cultivar. O resto é só jardinagem. 🌱"
+description: "Sua equipe parece desmotivada? O problema pode não ser o salário, mas a cultura que você tolera. Um papo reto sobre o que realmente engaja um time e gera resultado?"
+date: 2025-07-19 21:40:00 -0300
+img: "./img/liderar-e-cultivar-o-resto-e-so-jardinagem.jpg"
+author: geanramos
+tags: [Cultura Organizacional, Gestão de Pessoas]
+categories:
+ - Gestão
+ - Liderança
+ - Produtividade
+source:
+  author: Gean Ramos
+  title: histórias ganham vida
+  url: https://geanramos.u1m.com.br/?utm_source=liderdeboa.u1m.com.br&utm_medium=referral&utm_campaign=redirect
+---
+   
 🎯 **Sua equipe não engaja? A culpa pode ser da cultura (e não, não é falta de happy hour) 🍻**
 
 Senta aqui, pega um café. A gente precisa ter um papo reto. Você já se sentiu remando sozinho? Olhou para o time e pensou: "Eu me mato por essa empresa, mas parece que ninguém mais se importa"? Você organiza eventos, paga bônus, tenta de tudo, mas a energia continua baixa, a galera parece desinteressada e a produtividade não decola.
@@ -102,4 +119,11 @@ Liderar não é fácil, mas começa com a coragem de olhar para dentro e cultiva
 💾 **Salva este post** para ler de novo quando precisar daquele empurrãozinho.
 📲 Quer mais papos retos como este? **Entra no canal do WhatsApp** e bora liderar de boa!
 
----
+
+### **Categorias**
+
+1.  #Liderança
+2.  #Gestão De Pessoas
+3.  #Cultura Organizacional
+4.  #Produtividade
+5.  #Desenvolvimento De Lideres
